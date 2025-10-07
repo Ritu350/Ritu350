@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **SpringBoot,React,NodeJs,Docker,Kubernetes**
 
-- 📫 How to reach me **reetsharma035@gmail.com**
+- 📫 How to reach me **reetusharma001023@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
