@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently pursuing my **Master of Computer Application (MCA)** at Jharkhand University Of Technology.
+- 🔭 I’m recent graduate of **Master of Computer Application (MCA)** at Jharkhand University Of Technology.
 - 💻 My passion lies in building robust, secure, and high-performance **backend systems**.
 - 🛠️ My toolbox includes **Java, Spring Boot, Microservices, Hibernate, MySQL, Docker, and Kubernetes**.
 - ⚡ Fun fact: I maintain a **100-day consistent coding streak** on LeetCode and have solved **250+ DSA problems**.
